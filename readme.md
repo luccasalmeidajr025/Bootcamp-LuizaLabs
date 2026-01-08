@@ -329,14 +329,9 @@ Se deseja sugerir melhorias ou reportar problemas:
 ## 📧 Contato e Suporte
 
 - **Email:** seu-email@example.com
-- **GitHub:** [seu-perfil](https://github.com/seu-usuario)
-- **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-usuario)
+- **GitHub:** [seu-perfil](https://github.com/luccasalmeidajr025)
+- **LinkedIn:** [seu-perfil](linkedin.com/in/lucas-almeida-jr/)
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
