@@ -328,8 +328,8 @@ Se deseja sugerir melhorias ou reportar problemas:
 
 ## 📧 Contato e Suporte
 
-- **GitHub:** [seu-perfil](https://github.com/luccasalmeidajr025)
-- **LinkedIn:** [seu-perfil](linkedin.com/in/lucas-almeida-jr/)
+- **GitHub:** [luccasalmeidajr025](https://github.com/luccasalmeidajr025)
+- **LinkedIn:** [luccasalmeidajr025](linkedin.com/in/lucas-almeida-jr/)
 
 
 ---
